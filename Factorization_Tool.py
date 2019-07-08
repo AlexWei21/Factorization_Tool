@@ -1,4 +1,4 @@
-print("Welcome to use Prime Number Detector")
+print("Welcome to use Factorization_Tool")
 print("Version 1.0.1")
 iteration = True
 
@@ -26,7 +26,7 @@ while iteration :
 
         else:
             iteration = False;
-            print("Thank you for using Prime Number Detector")
+            print("Thank you for using Factorization_Tool")
 
     else:
         print("It's not an integer, please enter an **Integer** !")
